@@ -1,0 +1,23 @@
+{
+  "name": "require-demo",
+  "version": "1.0.0",
+  "description": "requirejs作业",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenfeng1945/require-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenfeng1945/require-demo/issues"
+  },
+  "homepage": "https://github.com/shenfeng1945/require-demo#readme",
+  "devDependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
